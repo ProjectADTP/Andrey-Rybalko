@@ -2,7 +2,7 @@
 
 ## Manual QA Engineer with Automation & Development Skills
 
-[![Flutter](https://img.shields.io/badge/github-black?logo=github)](https://github.com/ProjectADTP)  [![Flutter](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Umage_s) ![Email](https://img.shields.io/badge/-white?logo=gmail) rybalko102@gmail.com 
+[![Flutter](https://img.shields.io/badge/github-black?logo=github)](https://github.com/ProjectADTP)  [![Flutter](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Umage_s) [![Email](https://img.shields.io/badge/rybalko102@gmail.com-white?logo=gmail)](mailto:rybalko102@gmail.com)
 
 ## Профессиональный профиль
 
